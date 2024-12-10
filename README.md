@@ -14,7 +14,7 @@
 # A Telegram Bot
 A "Tele-Bot refers to a type of python script designed to secretly control and monitor a victim's device, often leveraging Telegram, a popular messaging platform, to send or receive commands and data. Telegram RATs exploit the Telegram API or use Telegram bots to facilitate communication between the attacker and the compromised device, bypassing traditional malware detection systems. .
 
-# Requirements💻 :
+## Requirements💻 :
 
 - pip install -r requirements.txt 
 
@@ -23,7 +23,7 @@ A "Tele-Bot refers to a type of python script designed to secretly control and m
 - Save it to .pyw and Run it.
 
 
-# Functionalities :
+## Functionalities :
 screen - Capture Screenshot
 sys - System Information
 ip - IP Addr
