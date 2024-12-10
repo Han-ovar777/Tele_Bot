@@ -24,20 +24,26 @@ A "Tele-Bot refers to a type of python script designed to secretly control and m
 
 
 ## Functionalities :
-screen - Capture Screenshot
-sys - System Information
-ip - IP Addr
-cd - Change Folder
-ls - List Elements
-upload - To get file
-crypt - Crypt file
-decrypt - Decrypt file
-webcam - Webcam capture
-lock - Lock Session
-clipoard - Get Clipboard
-help - Commands
-speech - Audio on Device
-shutdown - Bye Bye
+
+- /help : List what functionalities bot has
+
+- /screen : Desktop Capture
+
+- /sys : System Informations
+
+- /ip : Public ip adress
+
+- /upload : Receive File from remote system to Bot
+
+- /crypt : crypt files
+
+- /decrypt : decrypt files
+
+- /webcam : webcam capture
+
+- /lock : lock system
+
+- /speech : Text to speech
 
 
 🌌 Screenshots:
