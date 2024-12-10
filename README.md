@@ -1,6 +1,8 @@
 # Tele_Bot
 <p align="center">
-  <img  src=https://user-images.githubusercontent.com/83410938/167084293-283e529a-9bfc-431c-a870-4142733a13fb.gif>
+  <img  src=
+
+>
 </p>
 
 
@@ -15,25 +17,6 @@ Requirements💻 :
 - Insert Telegram Bot API in the code . ref : https://flowxo.com/how-to-create-a-bot-for-telegram-short-and-simple-guide-for-beginners/
 
 - Save it to .pyw and Run it.
-
-
-💿 SYSTEM TEST
-Windows 10 [ Recommended System ]
-
-
-
-💡 HOW TO INSTALL in WINDOWS
-Download Zip file https://github.com/Han-ovar777/OSINT-Tool.git
-
-Open up Windows directory
-
-Now, Unzip your file (OSINT.zip)
-
-
-and run ( main.py )
-
-For Whole Working Project Contact me on my Mail: han0var777@gmail.com
-
 
 
 🌌 Screenshots:
