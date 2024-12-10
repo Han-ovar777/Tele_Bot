@@ -1,6 +1,7 @@
 # Tele_Bot
 <p align="center">
-  <img  src=
+  <img  src=![1](https://github.com/user-attachments/assets/0d84881b-244c-4f8c-95f1-d28ce531b113)
+
 
 >
 </p>
@@ -22,6 +23,6 @@ Requirements💻 :
 🌌 Screenshots:
 
 <p align="center">
-  <img width="800" height="500" src="https://user-images.githubusercontent.com/83410938/167088908-197a086a-2af0-425f-b276-45c73d12a23a.jpg">
+  <img width="800" height="500" src="https://user-images.githubusercontent.com/83410938/167088908-197a086a-2
 
 </p>
