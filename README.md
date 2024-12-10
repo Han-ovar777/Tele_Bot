@@ -5,8 +5,8 @@
 
 
 
-# Tele-Bot
-A "Tele-RAT refers to a type of python script designed to secretly control and monitor a victim's device, often leveraging Telegram, a popular messaging platform, to send or receive commands and data. Telegram RATs exploit the Telegram API or use Telegram bots to facilitate communication between the attacker and the compromised device, bypassing traditional malware detection systems. .
+# A Telegram Bot
+A "Tele-Bot refers to a type of python script designed to secretly control and monitor a victim's device, often leveraging Telegram, a popular messaging platform, to send or receive commands and data. Telegram RATs exploit the Telegram API or use Telegram bots to facilitate communication between the attacker and the compromised device, bypassing traditional malware detection systems. .
 
 Requirements💻 :
 
