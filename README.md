@@ -48,7 +48,10 @@ A "Tele-Bot refers to a type of python script designed to secretly control and m
 
 🌌 Screenshots:
 
+### Virus Total Report
+
 <p align="center">
-  <img width="800" height="500" src=
+  <img width="1124" alt="Screenshot 2024-12-10 234118" src="https://github.com/user-attachments/assets/f4b4dd91-458a-4175-a4f9-be7f186f2fd3">
+
 
 </p>
