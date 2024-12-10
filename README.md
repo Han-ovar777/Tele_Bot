@@ -1,6 +1,6 @@
 # Tele_Bot
 <p align="center">
-  <img  src=![1](https://github.com/user-attachments/assets/0d84881b-244c-4f8c-95f1-d28ce531b113)
+  <img  src=
 
 
 >
